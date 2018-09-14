@@ -1,3 +1,4 @@
-links.csv/
-old-links.csv/
-nohup.out/
+*.csv
+crawler-backup.py
+crawler.py
+investing.py
